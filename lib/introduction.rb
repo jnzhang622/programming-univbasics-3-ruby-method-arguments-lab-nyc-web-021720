@@ -6,7 +6,9 @@
 puts "Hi my name is #{introduction}"
 
 
-
+def greeting_a_person(name)
+  puts "Hello #{name}"
+end
 
 
 
